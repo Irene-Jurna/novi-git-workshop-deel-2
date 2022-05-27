@@ -1,0 +1,22 @@
+body {
+    background-color: #F4D8CD;
+    margin: 25px;
+}
+
+h1 {
+    font-family: Candara;
+    color: #1E555C;
+}
+
+p {
+    font-family: "lucida g";
+    color: #3A2E39;
+}
+
+button {
+    padding: 8px;
+}
+
+button:hover {
+    background-color: #F15152;
+}
