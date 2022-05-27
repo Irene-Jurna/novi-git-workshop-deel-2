@@ -1,5 +1,6 @@
 body {
     background-color: #F4D8CD;
+    margin: 25px;
 }
 
 h1 {
@@ -10,4 +11,12 @@ h1 {
 p {
     font-family: "lucida g";
     color: #3A2E39;
+}
+
+button {
+    padding: 8px;
+}
+
+button:hover {
+    background-color: #F15152;
 }
